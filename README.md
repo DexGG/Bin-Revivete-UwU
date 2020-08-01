@@ -1,17 +1,17 @@
-# Bin_Resucitate
+# Bin-Revivete-UwU
 script extrapolador de bins, revive y saca lives con el metodo de sofia
 
-# instalacion
+# Instalación
 
-apt update && apt upgrade -y
+apt update && apt upgrade 
 
 https://github.com/DexGG/Bin-Revivete-UwU
 
-cd Bin_Resucitate
+cd Bin-Revivete-UwU
 
-chmod 777 Bin_Resucitate.sh
+chmod 777 Bin-Revivete.sh
 
-./Bin_Resucitate.sh
+Bash Bin-Revivete.sh
 
 
 
