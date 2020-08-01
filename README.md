@@ -5,7 +5,7 @@ script extrapolador de bins, revive y saca lives con el metodo de sofia
 
 apt update && apt upgrade -y
 
-git clone  https://github.com/AngelV1p/Bin_Resucitate.git
+git clone  https://github.com/DexGG/Bin_Resucitate.git
 
 cd Bin_Resucitate
 
@@ -70,7 +70,7 @@ ojo debe ser una tarjeta por bin extrapolado, dado por el scrit, si pegas dos cc
 6. Este bin lo podras usar esta vivo y dando buenas lives, asegurate de terminar el proceso correctamente 
 y el script ara su trabajo
 
-                               creditos @YPIZA
+                               creditos @Dex_GG
                                
 ----------------------------------------------------------------------------------------------
 
@@ -79,5 +79,5 @@ y el script ara su trabajo
 ________________________________
 
 
-Paypal : PayPal.me/yellowpizza
+Contáctame a @Dex_GG si quieres donar uwu
 
